@@ -28,17 +28,12 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Testing
+# Beni's First CS193 Homework!
 
-# This is Header 1
-## This is Header 2
-
-- **This**
-- **should**
-- **be**
-- **a**
-- **bulleted**
-- **listed**
+- **I like that the proffesors are undergraduate TAs. This creates a more encouraging environment as the professors are also students**
+- **I liked our lecture hall, the seats where comfortable**
+- **I like that there are no exams in this class**
+- **I like that this class is meant to prepare for real-work environemnts ensuring that we learn skills that we will actually apply outside of academia**
 
 1. _This_
 2. _is_
