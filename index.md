@@ -37,7 +37,7 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 - **should**
 - **be**
 - **a**
-- **bullter**
+- **bulleted**
 - **listed**
 
 1. _This_
